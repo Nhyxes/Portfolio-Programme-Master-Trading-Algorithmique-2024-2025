@@ -126,7 +126,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 - [LinkedIn](votre-profil-linkedin)
 - [GitHub](votre-profil-github)
 - [Portfolio Web](votre-site-portfolio)
-- Email: votre@email.com
+- Email: imbachi.bruno@gmail.com
 
 ## 📫 Contact
 
