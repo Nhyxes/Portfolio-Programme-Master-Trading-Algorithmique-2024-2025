@@ -3,8 +3,6 @@
 
 ## 👋 Présentation
 
-Je suis actuellement inscrit au Programme Master Complet 2024-2025, une formation intensive de 70 semaines (~16 mois) couvrant les domaines du Trading Algorithmique, de l'Intelligence Artificielle, du développement Web3, de la Blockchain et de l'IoT.
-
 Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes compétences acquises tout au long de cette formation.
 
 ## 📚 Structure du Programme
