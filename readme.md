@@ -10,7 +10,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 ### Phase 1 : Développement (16 semaines)
 
 - **Langages & Frameworks**
-  - JavaScript/TypeScript & React
+  - JavaScript/TypeScript & React (fullstackopen)
   - PHP & Frameworks Web
   - Python avancé & Data Science
   - Java/JVM & Spring
