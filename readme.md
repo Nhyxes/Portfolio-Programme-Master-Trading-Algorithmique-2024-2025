@@ -259,10 +259,7 @@ N'hésitez pas à me contacter pour toute question, collaboration ou opportunit�
 ---
 
 *Dernière mise à jour: [17 NOV 2024]*
-<<<<<<< HEAD
 
-=======
->>>>>>> refs/remotes/origin/main
 <!-- [░░░░░░░░░░] 0%
 [▓░░░░░░░░░] 10%
 [▓▓░░░░░░░░] 20%
