@@ -1,5 +1,6 @@
 
-# Portfolio - Programme Master Trading Algorithmique 2024-2025
+# Portfolio 
+- Programme Master Trading Algorithmique 2024-2025
 
 ## 👋 Présentation
 
@@ -7,7 +8,8 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 
 ## 📚 Structure du Programme
 
-# Suivi de Progression - Programme Master Trading Algorithmique 2024-2025
+# Suivi de Progression 
+- Programme Master Trading Algorithmique 2024-2025
 
 # README.md - Suivi des Prérequis
 ## Programme Trading Algorithmique 2024-2025
