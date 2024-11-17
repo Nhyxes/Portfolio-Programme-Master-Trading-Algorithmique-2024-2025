@@ -6,6 +6,47 @@
 Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes compétences acquises tout au long de cette formation.
 
 ## 📚 Structure du Programme
+# Suivi de Progression - Programme Master Trading Algorithmique 2024-2025
+
+## Validation des Prérequis
+
+### ✅ 1. Programmation
+- [x] Bases en algorithmique :
+  * Compréhension des structures de base
+  * Capacité à écrire des algorithmes simples
+- [x] Langages de programmation :
+  * PHP (6 mois d'expérience)
+  * JavaScript (~1 an d'expérience)
+- [x] Bases de données : **VALIDÉ**
+  * SQL
+  * Notions de NoSQL (MongoDB)
+- [x] HTTP/API :
+  * Compréhension des méthodes HTTP
+  * Expérience basique avec les APIs
+- [x] Git :
+  * Maîtrise des commandes de base (add, commit, push)
+
+### 2. Mathématiques
+- [ ] Algèbre de base
+- [ ] Statistiques élémentaires
+- [ ] Probabilités basiques
+
+### 3. Trading
+- [ ] Bases des marchés financiers
+- [ ] Compréhension des graphiques
+- [ ] Notions de gestion de risque
+
+### 4. Langue
+- [ ] Anglais technique
+
+### 5. Budget
+- [ ] Formation
+- [ ] Matériel
+- [ ] Logiciels
+- [ ] Trading
+
+---
+*Dernière mise à jour : 17 novembre 2024*
 
 # Suivi de Progression - Programme Master Trading Algorithmique 2024-2025
 
@@ -260,7 +301,10 @@ N'hésitez pas à me contacter pour toute question, collaboration ou opportunit�
 ---
 
 *Dernière mise à jour: [17 NOV 2024]*
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/main
 <!-- [░░░░░░░░░░] 0%
 [▓░░░░░░░░░] 10%
 [▓▓░░░░░░░░] 20%
