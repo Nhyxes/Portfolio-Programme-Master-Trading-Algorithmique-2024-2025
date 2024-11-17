@@ -2,17 +2,11 @@
 # Portfolio 
 - Programme Master Trading Algorithmique 2024-2025
 
-## 👋 Présentation
+# 👋 Présentation
 
 Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes compétences acquises tout au long de cette formation.
 
-## 📚 Structure du Programme
-
-# Suivi de Progression 
-- Programme Master Trading Algorithmique 2024-2025
-
-# README.md - Suivi des Prérequis
-## Programme Trading Algorithmique 2024-2025
+# Suivi des Prérequis
 
 ## 1. Programmation ✅
 
@@ -132,6 +126,8 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 
 *Dernière mise à jour : 17 novembre 20244
 
+## 📚 Structure du Programme
+- Programme Master Trading Algorithmique 2024-2025
 ### Phase 1 : Développement (16 semaines)
 
 - **Langages & Frameworks**
@@ -220,6 +216,8 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 3. Système IoT Distribué
 
 ## 🎯 Compétences Développées
+
+# Suivi de Progression 
 
 ### Techniques
 
