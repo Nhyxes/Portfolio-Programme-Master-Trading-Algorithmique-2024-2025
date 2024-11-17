@@ -11,19 +11,19 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 ## Validation des Prérequis
 
 ### ✅ 1. Programmation
-- [x] Bases en algorithmique : **VALIDÉ**
+- [x] Bases en algorithmique :
   * Compréhension des structures de base
   * Capacité à écrire des algorithmes simples
-- [x] Langages de programmation : **VALIDÉ**
+- [x] Langages de programmation :
   * PHP (6 mois d'expérience)
   * JavaScript (~1 an d'expérience)
 - [x] Bases de données : **VALIDÉ**
   * SQL
   * Notions de NoSQL (MongoDB)
-- [x] HTTP/API : **VALIDÉ**
+- [x] HTTP/API :
   * Compréhension des méthodes HTTP
   * Expérience basique avec les APIs
-- [x] Git : **VALIDÉ**
+- [x] Git :
   * Maîtrise des commandes de base (add, commit, push)
 
 ### 2. Mathématiques
