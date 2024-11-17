@@ -81,38 +81,44 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
   - Communication écrite basique
   - Terminologie trading/programmation
 
-## 5. Matériel
+<!-- ## 5. Matériel
 
 - [ ] **Configuration PC : À VALIDER**
-  - CPU i5/i7/Ryzen 5/7 ou supérieur
-  - RAM 16GB minimum
-  - SSD 500GB minimum
-  - GPU 4GB VRAM minimum
+
+- CPU i5/i7/Ryzen 5/7 ou supérieur
+- RAM 16GB minimum
+- SSD 500GB minimum
+- GPU 4GB VRAM minimum
 
 - [ ] **Connectivité : À VALIDER**
-  - Connexion fibre/ADSL stable
-  - Backup 4G
-  - Bonne latence
+
+- Connexion fibre/ADSL stable
+- Backup 4G
+- Bonne latence
 
 ## 6. Budget
 
 - [ ] **Formation : À VALIDER**
-  - Cours en ligne : 300-500€
-  - Licences logicielles : 200-400€/an
-  - Documentation : 100-200€
+
+- Cours en ligne : 300-500€
+- Licences logicielles : 200-400€/an
+- Documentation : 100-200€
 
 - [ ] **Matériel : À VALIDER**
-  - Hardware IoT : 200-400€
-  - Upgrades PC si nécessaire : 500-1000€
+
+- Hardware IoT : 200-400€
+- Upgrades PC si nécessaire : 500-1000€
 
 - [ ] **Trading : À VALIDER**
-  - Compte démo : Gratuit
-  - Capital test : 100-200€
-  - TradingView Pro : 150-300€/an
+
+- Compte démo : Gratuit
+- Capital test : 100-200€
+- TradingView Pro : 150-300€/an
 
 - [ ] **Développement : À VALIDER**
-  - IDE Pro : 200-400€/an
-  - Services Cloud : 50-100€/mois
+
+- IDE Pro : 200-400€/an
+- Services Cloud : 50-100€/mois -->
 
 ---
 
@@ -121,7 +127,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 > - [ ] À valider
 > - [x] Point validé
 
-*Dernière mise à jour : 17 novembre 2024*
+*Dernière mise à jour : 17 novembre 20244
 
 ### Phase 1 : Développement (16 semaines)
 
