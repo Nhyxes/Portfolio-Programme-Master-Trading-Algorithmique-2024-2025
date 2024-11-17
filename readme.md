@@ -6,7 +6,122 @@
 Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes compétences acquises tout au long de cette formation.
 
 ## 📚 Structure du Programme
+
 # Suivi de Progression - Programme Master Trading Algorithmique 2024-2025
+
+# README.md - Suivi des Prérequis
+## Programme Trading Algorithmique 2024-2025
+
+## 1. Programmation ✅
+
+- [x] **Bases en algorithmique : VALIDÉ**
+  - Compréhension des structures de base
+  - Capacité à écrire des algorithmes simples
+
+- [x] **Langages de programmation : VALIDÉ**
+  - PHP (1 an d'expérience)
+  - JavaScript (1 an d'expérience)
+
+- [x] **Bases de données : VALIDÉ**
+  - SQL
+  - Notions de NoSQL (MongoDB)
+
+- [x] **HTTP/API : VALIDÉ**
+  - Compréhension des méthodes HTTP
+  - Expérience basique avec les APIs
+
+- [x] **Git : VALIDÉ**
+  - Maîtrise des commandes de base (add, commit, push)
+
+## 2. Mathématiques 
+
+- [ ] **Algèbre de Base : À VALIDER**
+  - Fonctions et graphiques
+  - Équations (1er et 2nd degré)
+  - Fractions et pourcentages
+  - Puissances et racines
+
+- [ ] **Statistiques : À VALIDER**
+  - Moyenne, médiane, mode
+  - Écart-type et variance
+  - Lecture de graphiques
+  - Analyse de données simples
+
+- [ ] **Probabilités : À VALIDER**
+  - Probabilités simples
+  - Événements indépendants
+  - Loi normale
+  - Probabilités conditionnelles
+
+## 3. Trading
+
+- [ ] **Marchés Financiers : À VALIDER**
+  - Structure des marchés
+  - Types d'actifs
+  - Sessions de trading
+  - Ordres de base
+
+- [ ] **Analyse Technique : À VALIDER**
+  - Lecture de graphiques
+  - Indicateurs principaux
+  - Patterns de base
+  - Supports/Résistances
+
+- [ ] **Gestion des Risques : À VALIDER**
+  - Position sizing
+  - Stop loss
+  - Risk/Reward ratio
+  - Money management
+
+## 4. Langue
+
+- [ ] **Anglais Technique : À VALIDER**
+  - Lecture documentation technique
+  - Compréhension tutoriels vidéo
+  - Communication écrite basique
+  - Terminologie trading/programmation
+
+## 5. Matériel
+
+- [ ] **Configuration PC : À VALIDER**
+  - CPU i5/i7/Ryzen 5/7 ou supérieur
+  - RAM 16GB minimum
+  - SSD 500GB minimum
+  - GPU 4GB VRAM minimum
+
+- [ ] **Connectivité : À VALIDER**
+  - Connexion fibre/ADSL stable
+  - Backup 4G
+  - Bonne latence
+
+## 6. Budget
+
+- [ ] **Formation : À VALIDER**
+  - Cours en ligne : 300-500€
+  - Licences logicielles : 200-400€/an
+  - Documentation : 100-200€
+
+- [ ] **Matériel : À VALIDER**
+  - Hardware IoT : 200-400€
+  - Upgrades PC si nécessaire : 500-1000€
+
+- [ ] **Trading : À VALIDER**
+  - Compte démo : Gratuit
+  - Capital test : 100-200€
+  - TradingView Pro : 150-300€/an
+
+- [ ] **Développement : À VALIDER**
+  - IDE Pro : 200-400€/an
+  - Services Cloud : 50-100€/mois
+
+---
+
+> **Légende**
+> - ✅ Section validée
+> - [ ] À valider
+> - [x] Point validé
+
+*Dernière mise à jour : 17 novembre 2024*
 
 ### Phase 1 : Développement (16 semaines)
 
