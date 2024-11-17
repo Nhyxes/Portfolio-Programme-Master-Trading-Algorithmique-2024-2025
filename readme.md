@@ -125,7 +125,8 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 ---
 
 > **Légende**
-> - ✅ Section validée
+
+>   ✅ Section validée
 > - [ ] À valider
 > - [x] Point validé
 
