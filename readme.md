@@ -124,7 +124,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 > - [ ] À valider
 > - [x] Point validé
 
-*Dernière mise à jour : 17 novembre 2024
+*Dernière mise à jour : 18 novembre 2024
 
 ## 📚 Structure du Programme
 - Programme Master Trading Algorithmique 2024-2025
