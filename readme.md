@@ -15,8 +15,8 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
   - Capacité à écrire des algorithmes simples
 
 - [x] **Langages de programmation : VALIDÉ**
-  - PHP (1 an d'expérience)
-  - JavaScript (1 an d'expérience)
+  - PHP (6 mois d'expérience)
+  - JavaScript (6 mois d'expérience)
 
 - [x] **Bases de données : VALIDÉ**
   - SQL
