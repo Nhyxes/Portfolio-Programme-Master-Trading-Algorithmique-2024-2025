@@ -118,7 +118,6 @@ Termes Techniques   [░░░░░░░░░░] 0%
 
 *Dernière mise à jour : 19 novembre 2024*
 
-[Suite du README avec la Structure du Programme...]
 
 ## 📚 Structure du Programme
 - Programme Master Trading Algorithmique 2024-2025
