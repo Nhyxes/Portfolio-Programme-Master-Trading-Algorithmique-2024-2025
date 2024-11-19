@@ -1,5 +1,5 @@
 
-# Portfolio 
+# Portfolio
 - Programme Master Trading Algorithmique 2024-2025
 
 # 👋 Présentation
@@ -29,7 +29,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 - [x] **Git : VALIDÉ**
   - Maîtrise des commandes de base (add, commit, push)
 
-## 2. Mathématiques 
+## 2. Mathématiques
 
 - [ ] **Algèbre de Base : À VALIDER**
   - Fonctions et graphiques
@@ -118,13 +118,125 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 
 ---
 
+## Progression des Prérequis
+
+## 1. Programmation ✅
+
+### 01-Algorithmes
+  ```
+  Structures de Base    [▓▓▓▓▓▓▓▓▓▓] 100%
+  Tri et Recherche     [▓▓▓▓▓▓▓▓▓▓] 100%
+  Manipulation Données [▓▓▓▓▓▓▓▓▓▓] 100%
+  ```
+
+### 02-Langages
+  ```
+  JavaScript - Base    [▓▓▓▓▓▓▓▓▓▓] 100%
+  JavaScript - DOM     [▓▓▓▓▓▓▓▓▓▓] 100%
+  JavaScript - Async   [▓▓▓▓▓▓▓▓▓▓] 100%
+  PHP - Base          [▓▓▓▓▓▓▓▓▓▓] 100%
+  PHP - POO           [▓▓▓▓▓▓▓▓▓▓] 100%
+  ```
+
+### 03-Bases de Données
+  ```
+  SQL - Requêtes      [▓▓▓▓▓▓▓▓▓▓] 100%
+  SQL - Joins         [▓▓▓▓▓▓▓▓▓▓] 100%
+  MongoDB - Base      [▓▓▓▓▓▓▓▓▓▓] 100%
+  ```
+
+### 04-API
+  ```
+  Fetch API           [▓▓▓▓▓▓▓▓▓▓] 100%
+  Axios               [▓▓▓▓▓▓▓▓▓▓] 100%
+  Postman             [▓▓▓▓▓▓▓▓▓▓] 100%
+  ```
+
+### 05-Git
+  ```
+  Commandes Base      [▓▓▓▓▓▓▓▓▓▓] 100%
+  Workflow            [▓▓▓▓▓▓▓▓▓▓] 100%
+  ```
+
+## 2. Mathématiques 🔄
+
+### Algèbre
+  ```
+  Équations           [░░░░░░░░░░] 0%
+  Fonctions           [░░░░░░░░░░] 0%
+  Graphiques          [░░░░░░░░░░] 0%
+  ```
+
+### Statistiques
+  ```
+  Moyenne/Médiane     [░░░░░░░░░░] 0%
+  Écart-type          [░░░░░░░░░░] 0%
+  Distributions       [░░░░░░░░░░] 0%
+  ```
+
+### Probabilités
+  ```
+  Concepts Base       [░░░░░░░░░░] 0%
+  Lois Principales    [░░░░░░░░░░] 0%
+  ```
+
+## 3. Trading 🔄
+
+### Marchés
+  ```
+  Structure           [░░░░░░░░░░] 0%
+  Types d'Actifs      [░░░░░░░░░░] 0%
+  ```
+
+### Analyse
+  ```
+  Technique           [░░░░░░░░░░] 0%
+  Fondamentale        [░░░░░░░░░░] 0%
+  ```
+
+### Gestion Risque
+  ```
+  Position Sizing     [░░░░░░░░░░] 0%
+  Money Management    [░░░░░░░░░░] 0%
+  ```
+
+## 4. Langue 🔄
+  ```
+  Documentation EN    [░░░░░░░░░░] 0%
+  Communication EN    [░░░░░░░░░░] 0%
+  Termes Techniques   [░░░░░░░░░░] 0%
+  ```
+
+  <!---## Légende
+  ```
+  [░░░░░░░░░░] 0%   - Non commencé
+  [▓░░░░░░░░░] 10%  - Initié
+  [▓▓░░░░░░░░] 20%  - Bases comprises
+  [▓▓▓░░░░░░░] 30%  - En progression
+  [▓▓▓▓░░░░░░] 40%  - Avancement
+  [▓▓▓▓▓░░░░░] 50%  - Mi-parcours
+  [▓▓▓▓▓▓░░░░] 60%  - Bien avancé
+  [▓▓▓▓▓▓▓░░░] 70%  - Majoritaire
+  [▓▓▓▓▓▓▓▓░░] 80%  - Presque maîtrisé
+  [▓▓▓▓▓▓▓▓▓░] 90%  - Maîtrise avancée
+  [▓▓▓▓▓▓▓▓▓▓] 100% - Complètement maîtrisé
+  ```--->
+
+## État Global
+- ✅ Programmation : 100%
+- 🔄 Mathématiques : 0%
+- 🔄 Trading : 0%
+- 🔄 Langue : 0%
+
+---
+
 > **Légende**
 
 >   ✅ Section validée
 > - [ ] À valider
 > - [x] Point validé
 
-*Dernière mise à jour : 18 novembre 2024
+*Dernière mise à jour : 19 novembre 2024
 
 ## 📚 Structure du Programme
 - Programme Master Trading Algorithmique 2024-2025
@@ -217,7 +329,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 
 ## 🎯 Compétences Développées
 
-# Suivi de Progression 
+# Suivi de Progression
 
 ### Techniques
 
@@ -256,7 +368,7 @@ N'hésitez pas à me contacter pour toute question, collaboration ou opportunit�
 
 ---
 
-*Dernière mise à jour: [17 NOV 2024]*
+### *Dernière mise à jour: [19 NOV 2024]*
 
 <!-- [░░░░░░░░░░] 0%
 [▓░░░░░░░░░] 10%
