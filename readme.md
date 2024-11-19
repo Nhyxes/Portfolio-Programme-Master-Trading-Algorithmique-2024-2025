@@ -6,9 +6,9 @@
 
 Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes compétences acquises tout au long de cette formation.
 
-# Suivi des Prérequis
+# Suivi des Prérequis 🔄
 
-## 1. Programmation ✅
+## 1. Programmation :heavy_check_mark:
 
 - [x] **Bases en algorithmique : VALIDÉ**
   - Compréhension des structures de base
@@ -29,7 +29,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 - [x] **Git : VALIDÉ**
   - Maîtrise des commandes de base (add, commit, push)
 
-## 2. Mathématiques
+## 2. Mathématiques 🔄
 
 - [ ] **Algèbre de Base : À VALIDER**
   - Fonctions et graphiques
@@ -49,7 +49,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
   - Loi normale
   - Probabilités conditionnelles
 
-## 3. Trading
+## 3. Trading 🔄
 
 - [ ] **Marchés Financiers : À VALIDER**
   - Structure des marchés
@@ -69,7 +69,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
   - Risk/Reward ratio
   - Money management
 
-## 4. Langue
+## 4. Langue 🔄
 
 - [ ] **Anglais Technique : À VALIDER**
   - Lecture documentation technique
@@ -118,18 +118,18 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 
 ---
 
-## Progression des Prérequis
+## Progression des Prérequis 🔄
 
-## 1. Programmation ✅
+## 1. Programmation :heavy_check_mark:
 
-### 01-Algorithmes
+### 01-Algorithmes :heavy_check_mark:
   ```
   Structures de Base    [▓▓▓▓▓▓▓▓▓▓] 100%
   Tri et Recherche     [▓▓▓▓▓▓▓▓▓▓] 100%
   Manipulation Données [▓▓▓▓▓▓▓▓▓▓] 100%
   ```
 
-### 02-Langages
+### 02-Langages :heavy_check_mark:
   ```
   JavaScript - Base    [▓▓▓▓▓▓▓▓▓▓] 100%
   JavaScript - DOM     [▓▓▓▓▓▓▓▓▓▓] 100%
@@ -138,21 +138,21 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
   PHP - POO           [▓▓▓▓▓▓▓▓▓▓] 100%
   ```
 
-### 03-Bases de Données
+### 03-Bases de Données :heavy_check_mark:
   ```
   SQL - Requêtes      [▓▓▓▓▓▓▓▓▓▓] 100%
   SQL - Joins         [▓▓▓▓▓▓▓▓▓▓] 100%
   MongoDB - Base      [▓▓▓▓▓▓▓▓▓▓] 100%
   ```
 
-### 04-API
+### 04-API :heavy_check_mark:
   ```
   Fetch API           [▓▓▓▓▓▓▓▓▓▓] 100%
   Axios               [▓▓▓▓▓▓▓▓▓▓] 100%
   Postman             [▓▓▓▓▓▓▓▓▓▓] 100%
   ```
 
-### 05-Git
+### 05-Git :heavy_check_mark:
   ```
   Commandes Base      [▓▓▓▓▓▓▓▓▓▓] 100%
   Workflow            [▓▓▓▓▓▓▓▓▓▓] 100%
