@@ -6,7 +6,7 @@
 
 Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes compétences acquises tout au long de cette formation.
 
-# Suivi des Prérequis 🔄
+# Suivi des Prérequis 
 
 ## 1. Programmation :heavy_check_mark:
 
@@ -29,7 +29,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 - [x] **Git : VALIDÉ**
   - Maîtrise des commandes de base (add, commit, push)
 
-## 2. Mathématiques 🔄
+## 2. Mathématiques 
 
 - [ ] **Algèbre de Base : À VALIDER**
   - Fonctions et graphiques
@@ -49,7 +49,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
   - Loi normale
   - Probabilités conditionnelles
 
-## 3. Trading 🔄
+## 3. Trading 
 
 - [ ] **Marchés Financiers : À VALIDER**
   - Structure des marchés
@@ -69,7 +69,7 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
   - Risk/Reward ratio
   - Money management
 
-## 4. Langue 🔄
+## 4. Langue 
 
 - [ ] **Anglais Technique : À VALIDER**
   - Lecture documentation technique
