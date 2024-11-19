@@ -232,7 +232,12 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 
 > **Légende**
 
->   ✅ Section validée
+> ✅ Section validée
+
+> 🔄 En cours de validation
+
+> :heavy_check_mark: Sous séction validé
+
 > - [ ] À valider
 > - [x] Point validé
 
@@ -357,9 +362,9 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 
 ## 🔗 Liens Utiles
 
-- [LinkedIn](votre-profil-linkedin)
-- [GitHub](votre-profil-github)
-- [Portfolio Web](votre-site-portfolio)
+- [LinkedIn](https://www.linkedin.com/in/bruno-imbachi-a10b7830a/)
+- [GitHub](https://github.com/Nhyxes)
+- (Portfolio Web) - soon
 - Email: imbachi.bruno@gmail.com
 
 ## 📫 Contact
