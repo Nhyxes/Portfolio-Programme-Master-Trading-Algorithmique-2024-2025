@@ -1,226 +1,105 @@
-
 # Portfolio
 - Programme Master Trading Algorithmique 2024-2025
 
 # 👋 Présentation
-
 Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes compétences acquises tout au long de cette formation.
 
-# Suivi des Prérequis 
+# 📋 Suivi des Prérequis
 
-## 1. Programmation :heavy_check_mark:
+## 1. Programmation ✅
 
-- [x] **Bases en algorithmique : VALIDÉ**
-  - Compréhension des structures de base
-  - Capacité à écrire des algorithmes simples
+### Algorithmes :heavy_check_mark:
+```
+Structures de Base    [▓▓▓▓▓▓▓▓▓▓] 100%
+- Compréhension des structures
+- Capacité à écrire des algorithmes
 
-- [x] **Langages de programmation : VALIDÉ**
-  - PHP (6 mois d'expérience)
-  - JavaScript (6 mois d'expérience)
+Tri et Recherche     [▓▓▓▓▓▓▓▓▓▓] 100%
+Manipulation Données [▓▓▓▓▓▓▓▓▓▓] 100%
+```
 
-- [x] **Bases de données : VALIDÉ**
-  - SQL
-  - Notions de NoSQL (MongoDB)
+### Langages :heavy_check_mark:
+```
+JavaScript (6 mois)
+- Base               [▓▓▓▓▓▓▓▓▓▓] 100%
+- DOM                [▓▓▓▓▓▓▓▓▓▓] 100%
+- Async/Fetch        [▓▓▓▓▓▓▓▓▓▓] 100%
 
-- [x] **HTTP/API : VALIDÉ**
-  - Compréhension des méthodes HTTP
-  - Expérience basique avec les APIs
+PHP (6 mois)
+- Base               [▓▓▓▓▓▓▓▓▓▓] 100%
+- POO                [▓▓▓▓▓▓▓▓▓▓] 100%
+```
 
-- [x] **Git : VALIDÉ**
-  - Maîtrise des commandes de base (add, commit, push)
+### Bases de Données :heavy_check_mark:
+```
+SQL
+- Requêtes          [▓▓▓▓▓▓▓▓▓▓] 100%
+- Joins             [▓▓▓▓▓▓▓▓▓▓] 100%
 
-## 2. Mathématiques 
+MongoDB
+- Opérations Base   [▓▓▓▓▓▓▓▓▓▓] 100%
+```
 
-- [ ] **Algèbre de Base : À VALIDER**
-  - Fonctions et graphiques
-  - Équations (1er et 2nd degré)
-  - Fractions et pourcentages
-  - Puissances et racines
+### API/HTTP :heavy_check_mark:
+```
+Fetch API           [▓▓▓▓▓▓▓▓▓▓] 100%
+Axios               [▓▓▓▓▓▓▓▓▓▓] 100%
+Postman             [▓▓▓▓▓▓▓▓▓▓] 100%
+```
 
-- [ ] **Statistiques : À VALIDER**
-  - Moyenne, médiane, mode
-  - Écart-type et variance
-  - Lecture de graphiques
-  - Analyse de données simples
-
-- [ ] **Probabilités : À VALIDER**
-  - Probabilités simples
-  - Événements indépendants
-  - Loi normale
-  - Probabilités conditionnelles
-
-## 3. Trading 
-
-- [ ] **Marchés Financiers : À VALIDER**
-  - Structure des marchés
-  - Types d'actifs
-  - Sessions de trading
-  - Ordres de base
-
-- [ ] **Analyse Technique : À VALIDER**
-  - Lecture de graphiques
-  - Indicateurs principaux
-  - Patterns de base
-  - Supports/Résistances
-
-- [ ] **Gestion des Risques : À VALIDER**
-  - Position sizing
-  - Stop loss
-  - Risk/Reward ratio
-  - Money management
-
-## 4. Langue 
-
-- [ ] **Anglais Technique : À VALIDER**
-  - Lecture documentation technique
-  - Compréhension tutoriels vidéo
-  - Communication écrite basique
-  - Terminologie trading/programmation
-
-<!-- ## 5. Matériel
-
-- [ ] **Configuration PC : À VALIDER**
-
-- CPU i5/i7/Ryzen 5/7 ou supérieur
-- RAM 16GB minimum
-- SSD 500GB minimum
-- GPU 4GB VRAM minimum
-
-- [ ] **Connectivité : À VALIDER**
-
-- Connexion fibre/ADSL stable
-- Backup 4G
-- Bonne latence
-
-## 6. Budget
-
-- [ ] **Formation : À VALIDER**
-
-- Cours en ligne : 300-500€
-- Licences logicielles : 200-400€/an
-- Documentation : 100-200€
-
-- [ ] **Matériel : À VALIDER**
-
-- Hardware IoT : 200-400€
-- Upgrades PC si nécessaire : 500-1000€
-
-- [ ] **Trading : À VALIDER**
-
-- Compte démo : Gratuit
-- Capital test : 100-200€
-- TradingView Pro : 150-300€/an
-
-- [ ] **Développement : À VALIDER**
-
-- IDE Pro : 200-400€/an
-- Services Cloud : 50-100€/mois -->
-
----
-
-## Progression des Prérequis 🔄
-
-## 1. Programmation :heavy_check_mark:
-
-### 01-Algorithmes :heavy_check_mark:
-  ```
-  Structures de Base    [▓▓▓▓▓▓▓▓▓▓] 100%
-  Tri et Recherche     [▓▓▓▓▓▓▓▓▓▓] 100%
-  Manipulation Données [▓▓▓▓▓▓▓▓▓▓] 100%
-  ```
-
-### 02-Langages :heavy_check_mark:
-  ```
-  JavaScript - Base    [▓▓▓▓▓▓▓▓▓▓] 100%
-  JavaScript - DOM     [▓▓▓▓▓▓▓▓▓▓] 100%
-  JavaScript - Async   [▓▓▓▓▓▓▓▓▓▓] 100%
-  PHP - Base          [▓▓▓▓▓▓▓▓▓▓] 100%
-  PHP - POO           [▓▓▓▓▓▓▓▓▓▓] 100%
-  ```
-
-### 03-Bases de Données :heavy_check_mark:
-  ```
-  SQL - Requêtes      [▓▓▓▓▓▓▓▓▓▓] 100%
-  SQL - Joins         [▓▓▓▓▓▓▓▓▓▓] 100%
-  MongoDB - Base      [▓▓▓▓▓▓▓▓▓▓] 100%
-  ```
-
-### 04-API :heavy_check_mark:
-  ```
-  Fetch API           [▓▓▓▓▓▓▓▓▓▓] 100%
-  Axios               [▓▓▓▓▓▓▓▓▓▓] 100%
-  Postman             [▓▓▓▓▓▓▓▓▓▓] 100%
-  ```
-
-### 05-Git :heavy_check_mark:
-  ```
-  Commandes Base      [▓▓▓▓▓▓▓▓▓▓] 100%
-  Workflow            [▓▓▓▓▓▓▓▓▓▓] 100%
-  ```
+### Git :heavy_check_mark:
+```
+Commandes Base      [▓▓▓▓▓▓▓▓▓▓] 100%
+Workflow            [▓▓▓▓▓▓▓▓▓▓] 100%
+```
 
 ## 2. Mathématiques 🔄
 
 ### Algèbre
-  ```
-  Équations           [░░░░░░░░░░] 0%
-  Fonctions           [░░░░░░░░░░] 0%
-  Graphiques          [░░░░░░░░░░] 0%
-  ```
+```
+Équations           [░░░░░░░░░░] 0%
+- 1er et 2nd degré
+- Fonctions et graphiques
+- Fractions et pourcentages
+```
 
 ### Statistiques
-  ```
-  Moyenne/Médiane     [░░░░░░░░░░] 0%
-  Écart-type          [░░░░░░░░░░] 0%
-  Distributions       [░░░░░░░░░░] 0%
-  ```
+```
+Moyenne/Médiane     [░░░░░░░░░░] 0%
+Écart-type          [░░░░░░░░░░] 0%
+Distributions       [░░░░░░░░░░] 0%
+```
 
 ### Probabilités
-  ```
-  Concepts Base       [░░░░░░░░░░] 0%
-  Lois Principales    [░░░░░░░░░░] 0%
-  ```
+```
+Concepts Base       [░░░░░░░░░░] 0%
+Lois Principales    [░░░░░░░░░░] 0%
+```
 
 ## 3. Trading 🔄
 
 ### Marchés
-  ```
-  Structure           [░░░░░░░░░░] 0%
-  Types d'Actifs      [░░░░░░░░░░] 0%
-  ```
+```
+Structure           [░░░░░░░░░░] 0%
+- Types d'actifs
+- Sessions de trading
+- Ordres de base
 
-### Analyse
-  ```
-  Technique           [░░░░░░░░░░] 0%
-  Fondamentale        [░░░░░░░░░░] 0%
-  ```
+Analyse
+- Technique         [░░░░░░░░░░] 0%
+- Fondamentale      [░░░░░░░░░░] 0%
 
-### Gestion Risque
-  ```
-  Position Sizing     [░░░░░░░░░░] 0%
-  Money Management    [░░░░░░░░░░] 0%
-  ```
+Gestion Risque
+- Position Sizing   [░░░░░░░░░░] 0%
+- Money Management  [░░░░░░░░░░] 0%
+```
 
 ## 4. Langue 🔄
-  ```
-  Documentation EN    [░░░░░░░░░░] 0%
-  Communication EN    [░░░░░░░░░░] 0%
-  Termes Techniques   [░░░░░░░░░░] 0%
-  ```
-
-  <!---## Légende
-  ```
-  [░░░░░░░░░░] 0%   - Non commencé
-  [▓░░░░░░░░░] 10%  - Initié
-  [▓▓░░░░░░░░] 20%  - Bases comprises
-  [▓▓▓░░░░░░░] 30%  - En progression
-  [▓▓▓▓░░░░░░] 40%  - Avancement
-  [▓▓▓▓▓░░░░░] 50%  - Mi-parcours
-  [▓▓▓▓▓▓░░░░] 60%  - Bien avancé
-  [▓▓▓▓▓▓▓░░░] 70%  - Majoritaire
-  [▓▓▓▓▓▓▓▓░░] 80%  - Presque maîtrisé
-  [▓▓▓▓▓▓▓▓▓░] 90%  - Maîtrise avancée
-  [▓▓▓▓▓▓▓▓▓▓] 100% - Complètement maîtrisé
-  ```--->
+```
+Documentation EN    [░░░░░░░░░░] 0%
+Communication EN    [░░░░░░░░░░] 0%
+Termes Techniques   [░░░░░░░░░░] 0%
+```
 
 ## État Global
 - ✅ Programmation : 100%
@@ -231,17 +110,15 @@ Ce portfolio a pour but de documenter mon parcours, mes réalisations et mes com
 ---
 
 > **Légende**
+> - ✅ Section validée
+> - 🔄 En cours de validation
+> - :heavy_check_mark: Sous-section validée
+> - [▓▓▓▓▓▓▓▓▓▓] 100% : Maîtrisé
+> - [░░░░░░░░░░] 0% : À commencer
 
-> ✅ Section validée
+*Dernière mise à jour : 19 novembre 2024*
 
-> 🔄 En cours de validation
-
-> :heavy_check_mark: Sous séction validé
-
-> - [ ] À valider
-> - [x] Point validé
-
-*Dernière mise à jour : 19 novembre 2024
+[Suite du README avec la Structure du Programme...]
 
 ## 📚 Structure du Programme
 - Programme Master Trading Algorithmique 2024-2025
