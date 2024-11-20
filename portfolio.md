@@ -124,7 +124,7 @@ Technical Terms      [░░░░░░░░░░] 0%
 > - [▓▓▓▓▓▓▓▓▓▓] 100%: Mastered
 > - [░░░░░░░░░░] 0%: To start
 
-*Last updated: November 20, 2024*
+*Last updated: November 20, 2024
 
 ---
 
@@ -267,7 +267,7 @@ Feel free to contact me for any questions, collaborations, or opportunities!
 
 ---
 
-### *Last updated: [20 NOV 2024]*
+### *Last updated: November 20, 2024
 
 ---
 
@@ -392,7 +392,7 @@ Termes techniques   [░░░░░░░░░░] 0%
 > - [▓▓▓▓▓▓▓▓▓▓] 100%: Maîtrisé
 > - [░░░░░░░░░░] 0%: À démarrer
 
-*Mise à jour : 20 novembre 2024*
+*Mise à jour : 20 November 2024
 
 ---
 
@@ -535,6 +535,6 @@ N'hésitez pas à me contacter pour toute question, collaboration ou opportunit�
 
 ---
 
-### *Mise à jour : [20 NOV 2024]*
+### *Mise à jour : 20 November 2024
 
 ---

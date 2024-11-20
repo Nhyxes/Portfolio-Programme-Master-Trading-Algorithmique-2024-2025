@@ -1,2 +1,4 @@
 .DS_Store
 .idea
+prerequisites_date_update.sh
+prerequisites/programming/update_md_date.sh
