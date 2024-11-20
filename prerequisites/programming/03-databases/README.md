@@ -1,7 +1,90 @@
-# Bases de Données
-> Démonstration des compétences en SQL et MongoDB
+# Databases - Basic Examples
+# Bases de Données - Exemples de Base
 
-## 📂 Structure du Dossier
+[English](#english) | [Français](#français)
+
+---
+
+## English
+
+Demonstration of SQL and MongoDB skills
+
+### 📂 Folder Structure
+```bash
+03-databases/
+├── sql/
+│   ├── basic-queries.sql  # Basic SQL queries
+│   └── joins.sql         # JOIN examples
+└── mongodb/
+    └── basic-operations.js # MongoDB operations
+```
+
+### ✅ SQL Skills
+
+#### Basic Queries
+- [x] SELECT, INSERT, UPDATE, DELETE
+- [x] WHERE, ORDER BY, GROUP BY
+- [x] Filters and conditions
+- [x] Aggregation functions (COUNT, SUM, AVG)
+
+#### Joins
+- [x] INNER JOIN
+- [x] LEFT JOIN
+- [x] Multiple joins
+- [x] Simple subqueries
+
+### ✅ MongoDB Skills
+
+#### CRUD Operations
+- [x] insertOne/insertMany
+- [x] find/findOne
+- [x] updateOne/updateMany
+- [x] deleteOne/deleteMany
+
+#### Queries
+- [x] Filters
+- [x] Projection
+- [x] Sort and Limit
+- [x] Comparison operators
+
+### 🔍 Included Examples
+
+#### SQL
+```sql
+-- Basic join
+SELECT users.name, orders.total
+FROM users
+INNER JOIN orders ON users.id = orders.user_id
+WHERE orders.total > 100;
+```
+
+#### MongoDB
+```javascript
+// Find with filters
+db.users.find({
+    age: { $gt: 18 },
+    city: "Paris"
+});
+
+// Update with operators
+db.users.updateMany(
+    { status: "active" },
+    { $set: { verified: true } }
+);
+```
+
+### 📝 Notes
+- Focus on common operations
+- Optimized and clear queries
+- Practical and realistic examples
+
+---
+
+## Français
+
+Démonstration des compétences en SQL et MongoDB
+
+### 📂 Structure du Dossier
 ```bash
 03-databases/
 ├── sql/
@@ -11,37 +94,37 @@
     └── basic-operations.js # Opérations MongoDB
 ```
 
-## ✅ Compétences SQL
+### ✅ Compétences SQL
 
-### Requêtes de Base
+#### Requêtes de Base
 - [x] SELECT, INSERT, UPDATE, DELETE
 - [x] WHERE, ORDER BY, GROUP BY
 - [x] Filtres et conditions
 - [x] Fonctions d'agrégation (COUNT, SUM, AVG)
 
-### Jointures
+#### Jointures
 - [x] INNER JOIN
 - [x] LEFT JOIN
 - [x] Jointures multiples
 - [x] Sous-requêtes simples
 
-## ✅ Compétences MongoDB
+### ✅ Compétences MongoDB
 
-### Opérations CRUD
+#### Opérations CRUD
 - [x] insertOne/insertMany
 - [x] find/findOne
 - [x] updateOne/updateMany
 - [x] deleteOne/deleteMany
 
-### Requêtes
+#### Requêtes
 - [x] Filtres
 - [x] Projection
 - [x] Sort et Limit
 - [x] Opérateurs de comparaison
 
-## 🔍 Exemples Inclus
+### 🔍 Exemples Inclus
 
-### SQL
+#### SQL
 ```sql
 -- Jointure basique
 SELECT users.name, orders.total
@@ -50,7 +133,7 @@ INNER JOIN orders ON users.id = orders.user_id
 WHERE orders.total > 100;
 ```
 
-### MongoDB
+#### MongoDB
 ```javascript
 // Find avec filtres
 db.users.find({
@@ -65,10 +148,12 @@ db.users.updateMany(
 );
 ```
 
-## 📝 Notes
+### 📝 Notes
 - Focus sur les opérations courantes
 - Requêtes optimisées et claires
 - Exemples pratiques et réalistes
 
 ---
-*Dernière mise à jour : 17 novembre 2024*
+
+*Last update / Dernière mise à jour : 20 novembre 2024*
+*Examples are intentionally kept simple to demonstrate understanding of basic concepts / Les exemples sont volontairement simples pour démontrer la compréhension des concepts de base*
